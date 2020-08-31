@@ -1,0 +1,15 @@
+#header span{
+    margin-left: 30px;
+}
+#app div {
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+
+#app div div {
+    display: block;
+    margin: 10px;
+}
